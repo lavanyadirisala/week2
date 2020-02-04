@@ -55,9 +55,9 @@ class App
                 }
             }
         }
-        System.out.println("Total count of Candies in gift below 50 : "+countabove0);
-        System.out.println("Total count of Candies in gift below 100 : "+countabove50);
-        System.out.println("Total count of Candies in gift below 200 : "+countabove100);
+        System.out.println("Total count of Candies in gift above 0: "+countabove0);
+        System.out.println("Total count of Candies in gift above 50 : "+countabove50);
+        System.out.println("Total count of Candies in gift above 100 : "+countabove100);
 
     }
 }
